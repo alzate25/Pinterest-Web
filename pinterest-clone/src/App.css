@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+img {
+  border-radius: 1.5rem !important; /* fuerza bordes redondeados */
+  display: block;
+  overflow: hidden;
+}
+
+div {
+  border-radius: 1.5rem !important;
+  overflow: hidden !important;
+}
